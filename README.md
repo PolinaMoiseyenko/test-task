@@ -1,3 +1,14 @@
+## Realized features:
+   - clients table
+   - client delete
+   - add client
+   - client's cars
+   - add client's cars
+   - clients search
+## Unrealized features:
+   - orders management
+   - clients and cars edit
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
